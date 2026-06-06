@@ -1,6 +1,6 @@
 A simple calculator built in Java that performs basic arithmetic operations based on user input.
 
-**Features**
+**Features:**
 Addition (+)
 Subtraction (-)
 Multiplication (*)
